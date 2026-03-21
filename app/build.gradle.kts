@@ -22,6 +22,9 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+            // Debug keystore keeps release APKs installable without a Play Store signing key
+            // (suitable for CI artifacts and sideloading this small utility).
+            signingConfig = signingConfigs.getByName("debug")
         }
     }
 
