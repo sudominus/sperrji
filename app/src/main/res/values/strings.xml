@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sperrji</string>
+    <string name="widget_name">sperrji lock</string>
+    <string name="widget_description">Transparent area: tap to lock the screen.</string>
+    <string name="accessibility_service_description">Lets sperrji lock the screen from the app icon or home screen widget.</string>
+    <string name="accessibility_service_summary">Lock screen shortcut</string>
+    <string name="main_status_need_accessibility">Turn on the sperrji accessibility service, then return here or use the widget to lock.</string>
+    <string name="open_accessibility_settings">Open accessibility settings</string>
+    <string name="toast_enable_accessibility">Enable the sperrji accessibility service first.</string>
+</resources>
