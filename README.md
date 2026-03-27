@@ -1,5 +1,7 @@
 # sperrji
 
+**Repository:** [github.com/sudominus/sperrji](https://github.com/sudominus/sperrji)
+
 Minimal Android app that locks the screen using the accessibility global action `GLOBAL_ACTION_LOCK_SCREEN`. It includes a transparent, resizable home screen widget and a launcher shortcut.
 
 **Requirements:** Android 9 (API 28) or newer.
